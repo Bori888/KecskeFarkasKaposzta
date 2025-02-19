@@ -32,3 +32,11 @@ aside ,article{
 footer{
     width: 100%;
 }
+footer p,h1{
+    text-align: center;
+
+
+}
+footer p{
+    background-color: rgb(107, 185, 227);;
+}
