@@ -1,0 +1,15 @@
+header,aside,article,footer,main{
+    border: 1px solid black;
+}
+img{
+    width: 100px;
+}
+article{
+    background-color: rgb(107, 185, 227);
+    height:200px ;
+    width: 100%;
+}
+#csonakKep{
+    width: 200px;
+
+}
